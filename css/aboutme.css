@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap");
 
 h2 {
+  margin-top: 1rem;
   text-align: center;
   font-size: 3rem;
   font-family: "Tagesschrift", sans-serif;
